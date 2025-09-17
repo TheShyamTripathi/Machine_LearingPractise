@@ -1,6 +1,3 @@
-Here’s a clean **README.md** you can use for your repository:
-
-````markdown
 # 📘 Machine Learning Practise  
 
 This repository contains lab activities and practice codes for the **Machine Learning (23CSE301)** subject during my **B.Tech journey**. It is a collection of implementations for fundamental machine learning algorithms and related exercises.  
