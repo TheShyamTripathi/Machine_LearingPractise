@@ -1,0 +1,428 @@
+purchasing_behaviour,gender,age,time_spent_in_online_shop,target_buy_now,gender_code
+buy now,female,22.0,40.0,1,1
+buy now,female,25.0,23.0,1,1
+buy now,male,18.0,12.0,1,0
+buy now,male,45.0,28.0,1,0
+buy now,female,13.0,43.0,1,1
+buy now,male,43.0,23.0,1,0
+buy now,male,23.0,55.0,1,0
+buy now,male,33.0,34.0,1,0
+buy later,female,27.0,28.0,0,1
+buy later,female,27.0,15.0,0,1
+buy later,male,48.0,110.0,0,0
+buy later,male,34.0,28.0,0,0
+buy later,male,32.0,11.0,0,0
+buy later,male,66.0,32.0,0,0
+buy later,male,24.0,23.0,0,0
+buy later,female,34.0,44.0,0,1
+don't buy anything,female,27.0,55.0,0,1
+don't buy anything,female,34.0,65.0,0,1
+don't buy anything,male,55.0,56.0,0,0
+don't buy anything,male,65.0,80.0,0,0
+don't buy anything,male,44.0,66.0,0,0
+don't buy anything,female,88.0,44.0,0,1
+don't buy anything,female,33.0,65.0,0,1
+don't buy anything,female,43.0,34.0,0,1
+buy now,male,49.0,31.0,1,0
+buy now,male,39.0,69.0,1,0
+buy now,male,38.0,76.0,1,0
+buy later,male,18.0,61.0,0,0
+buy now,male,68.0,9.0,1,0
+buy now,male,49.0,32.0,1,0
+buy later,male,80.0,62.5,0,0
+buy later,male,52.0,46.0,0,0
+buy now,male,71.0,999.0,1,0
+buy later,male,48.0,98.0,0,0
+buy later,female,53.0,89.0,0,1
+buy now,female,33.0,72.0,1,1
+buy later,male,57.0,79.0,0,0
+don't buy anything,male,70.0,67.0,0,0
+buy later,male,46.5,112.0,0,0
+don't buy anything,male,26.0,54.0,0,0
+buy now,male,21.0,23.0,1,0
+buy later,male,33.0,19.0,0,0
+buy later,female,46.5,110.0,0,1
+buy later,male,61.0,11.0,0,0
+don't buy anything,male,51.0,111.0,0,0
+buy now,male,20.0,36.0,1,0
+buy later,female,25.0,28.0,0,1
+buy now,male,70.0,115.0,1,0
+buy later,male,56.0,81.0,0,0
+buy now,male,42.0,74.0,1,0
+don't buy anything,male,71.0,41.0,0,0
+buy now,male,75.0,62.5,1,0
+buy later,male,65.0,116.0,0,0
+buy later,female,71.0,99.0,0,1
+buy now,male,46.5,108.0,1,0
+don't buy anything,male,43.0,54.0,0,0
+buy now,male,74.0,84.0,1,0
+buy now,female,90.0,107.0,1,1
+don't buy anything,female,51.0,102.0,0,1
+buy now,male,23.0,95.0,1,0
+buy later,female,43.0,28.0,0,1
+don't buy anything,male,61.0,8.0,0,0
+buy later,female,85.0,100.0,0,1
+buy later,male,68.0,74.0,0,0
+buy later,male,80.0,100.0,0,0
+buy now,female,19.0,62.5,1,1
+buy now,male,33.0,22.0,1,0
+don't buy anything,male,77.0,107.0,0,0
+buy later,male,46.0,111.0,0,0
+buy now,male,30.0,62.5,1,0
+buy later,male,41.0,16.0,0,0
+buy now,male,60.0,27.0,1,0
+buy later,male,47.0,87.0,0,0
+buy now,male,71.0,81.0,1,0
+buy later,male,51.0,82.0,0,0
+buy now,female,37.0,85.0,1,1
+buy later,male,41.0,91.0,0,0
+buy later,female,29.0,109.0,0,1
+don't buy anything,male,29.0,62.5,0,0
+buy now,male,21.0,98.0,1,0
+buy now,male,46.5,999.0,1,0
+buy now,female,46.5,82.0,1,1
+don't buy anything,male,28.0,62.5,0,0
+don't buy anything,male,36.0,62.5,0,0
+buy later,male,24.0,83.0,0,0
+buy now,female,34.0,60.0,1,1
+buy now,male,34.0,98.0,1,0
+buy now,female,18.0,62.5,1,1
+buy now,male,87.0,74.0,1,0
+buy now,female,46.5,43.0,1,1
+buy now,male,64.0,83.0,1,0
+buy later,male,46.0,61.0,0,0
+buy now,male,25.0,58.0,1,0
+buy now,male,23.0,59.0,1,0
+buy now,male,46.5,63.0,1,0
+buy later,female,89.0,52.0,0,1
+buy later,male,33.0,8.0,0,0
+buy later,male,34.0,84.0,0,0
+buy now,male,51.0,55.0,1,0
+buy later,female,79.0,68.0,0,1
+don't buy anything,female,15.0,23.0,0,1
+buy now,male,46.5,34.0,1,0
+buy now,male,15.0,48.0,1,0
+buy later,male,17.0,40.0,0,0
+buy now,female,14.0,71.0,1,1
+buy now,male,46.5,65.0,1,0
+buy now,male,86.0,117.0,1,0
+buy now,male,19.0,113.0,1,0
+buy now,female,61.0,118.0,1,1
+buy now,female,17.0,7.0,1,1
+buy now,male,86.0,62.5,1,0
+buy now,female,15.0,79.0,1,1
+buy later,male,40.0,113.0,0,0
+buy now,male,68.0,6.0,1,0
+don't buy anything,male,33.0,96.0,0,0
+buy later,female,53.0,106.0,0,1
+buy later,male,25.0,56.0,0,0
+buy later,male,30.0,6.0,0,0
+buy now,male,21.0,100.0,1,0
+buy now,male,40.0,62.5,1,0
+buy now,male,55.0,64.0,1,0
+buy later,female,46.5,62.5,0,1
+buy now,female,68.0,103.0,1,1
+buy now,male,69.0,96.0,1,0
+buy later,male,25.0,64.0,0,0
+don't buy anything,female,85.0,72.0,0,1
+buy now,male,85.0,6.0,1,0
+buy now,female,31.0,33.0,1,1
+don't buy anything,male,24.0,62.5,0,0
+buy later,male,29.0,116.0,0,0
+buy now,male,72.0,42.0,1,0
+buy now,male,45.0,90.0,1,0
+buy now,male,79.0,62.5,1,0
+don't buy anything,male,30.0,31.0,0,0
+buy later,male,89.0,17.0,0,0
+buy later,male,18.0,62.0,0,0
+buy later,male,50.0,11.0,0,0
+buy later,male,82.0,109.0,0,0
+don't buy anything,male,67.0,41.0,0,0
+buy later,male,51.0,99.0,0,0
+buy later,male,59.0,53.0,0,0
+buy now,male,45.0,41.0,1,0
+buy later,male,35.0,44.0,0,0
+buy now,male,73.0,103.0,1,0
+buy now,male,41.0,10.0,1,0
+buy later,male,69.0,107.0,0,0
+buy now,male,36.0,57.0,1,0
+buy now,male,33.0,116.0,1,0
+buy now,male,44.0,23.0,1,0
+buy now,male,46.5,36.0,1,0
+don't buy anything,male,46.5,117.0,0,0
+don't buy anything,male,17.0,105.0,0,0
+don't buy anything,male,27.0,52.0,0,0
+don't buy anything,male,16.0,84.0,0,0
+buy now,male,70.0,73.0,1,0
+buy now,female,69.0,69.0,1,1
+buy later,male,46.0,29.0,0,0
+buy now,female,42.0,18.0,1,1
+buy now,male,52.0,108.0,1,0
+buy now,male,32.0,37.0,1,0
+buy now,male,39.0,41.0,1,0
+don't buy anything,male,32.0,10.0,0,0
+buy now,male,20.0,9.0,1,0
+buy later,male,27.0,48.0,0,0
+buy now,male,63.0,62.5,1,0
+buy now,male,67.0,86.0,1,0
+buy now,male,15.0,63.0,1,0
+buy now,female,17.0,6.0,1,1
+buy later,female,18.0,32.0,0,1
+buy later,male,36.0,67.0,0,0
+buy now,female,58.0,118.0,1,1
+buy now,male,46.5,62.5,1,0
+don't buy anything,female,59.0,13.0,0,1
+buy now,male,52.0,11.0,1,0
+buy now,male,46.5,37.0,1,0
+buy later,male,30.0,78.0,0,0
+buy now,male,39.0,52.0,1,0
+buy now,female,18.0,6.0,1,1
+buy now,male,30.0,74.0,1,0
+buy later,male,81.0,72.0,0,0
+buy now,male,41.0,15.0,1,0
+buy later,male,83.0,30.0,0,0
+don't buy anything,male,84.0,87.0,0,0
+don't buy anything,male,40.0,103.0,0,0
+don't buy anything,male,71.0,106.0,0,0
+buy now,male,18.0,28.0,1,0
+buy now,female,48.0,76.0,1,1
+buy now,male,74.0,113.0,1,0
+don't buy anything,female,19.0,85.0,0,1
+buy now,female,34.0,70.0,1,1
+buy now,female,46.5,69.0,1,1
+buy later,male,13.0,108.0,0,0
+buy now,male,42.0,48.0,1,0
+buy later,male,39.0,114.0,0,0
+don't buy anything,male,71.0,62.5,0,0
+don't buy anything,male,18.0,95.0,0,0
+buy now,male,46.5,105.0,1,0
+buy later,male,34.0,62.5,0,0
+buy now,male,16.0,6.0,1,0
+don't buy anything,male,89.0,42.0,0,0
+buy now,male,36.0,51.0,1,0
+buy later,male,64.0,73.0,0,0
+don't buy anything,male,24.0,59.0,0,0
+don't buy anything,female,23.0,47.0,0,1
+don't buy anything,female,44.0,15.0,0,1
+don't buy anything,male,38.0,76.0,0,0
+buy now,male,50.0,83.0,1,0
+buy later,male,81.0,36.0,0,0
+buy now,male,58.0,104.0,1,0
+buy later,male,44.0,50.0,0,0
+buy now,male,17.0,37.0,1,0
+buy now,male,66.0,91.0,1,0
+buy now,male,65.0,36.0,1,0
+don't buy anything,female,90.0,98.0,0,1
+buy now,male,67.0,48.0,1,0
+buy now,male,56.0,23.0,1,0
+don't buy anything,male,18.0,90.0,0,0
+buy later,male,18.0,64.0,0,0
+don't buy anything,male,46.5,52.0,0,0
+buy later,male,82.0,999.0,0,0
+buy later,female,28.0,62.0,0,1
+buy now,male,52.0,29.0,1,0
+buy later,male,37.0,50.0,0,0
+buy now,male,65.0,62.5,1,0
+buy later,female,70.0,110.0,0,1
+don't buy anything,male,42.0,73.0,0,0
+don't buy anything,male,86.0,33.0,0,0
+buy now,male,61.0,35.0,1,0
+buy now,female,62.0,73.0,1,1
+buy now,male,82.0,62.5,1,0
+buy now,male,46.5,60.0,1,0
+buy later,male,60.0,33.0,0,0
+buy now,female,49.0,55.0,1,1
+buy now,male,46.0,51.0,1,0
+buy now,male,46.5,62.5,1,0
+buy now,male,79.0,53.0,1,0
+buy now,female,43.0,11.0,1,1
+buy now,female,36.0,17.0,1,1
+buy now,male,14.0,89.0,1,0
+buy now,male,70.0,44.0,1,0
+buy now,female,55.0,91.0,1,1
+don't buy anything,male,62.0,15.0,0,0
+don't buy anything,female,28.0,41.0,0,1
+don't buy anything,male,21.0,61.0,0,0
+don't buy anything,male,77.0,999.0,0,0
+buy later,male,67.0,100.0,0,0
+buy now,female,21.0,85.0,1,1
+buy now,male,48.0,62.5,1,0
+buy now,female,45.0,118.0,1,1
+don't buy anything,female,88.0,93.0,0,1
+buy now,female,55.0,63.0,1,1
+don't buy anything,male,88.0,46.0,0,0
+don't buy anything,female,49.0,21.0,0,1
+buy now,female,66.0,6.0,1,1
+don't buy anything,male,66.0,36.0,0,0
+buy now,male,46.5,91.0,1,0
+buy later,male,14.0,38.0,0,0
+buy now,female,46.5,62.5,1,1
+don't buy anything,male,75.0,87.0,0,0
+buy now,male,50.0,76.0,1,0
+don't buy anything,female,27.0,98.0,0,1
+buy now,male,56.0,999.0,1,0
+buy now,male,55.0,101.0,1,0
+don't buy anything,male,60.0,62.5,0,0
+buy now,female,33.0,101.0,1,1
+don't buy anything,male,72.0,39.0,0,0
+buy now,male,72.0,60.0,1,0
+buy now,male,14.0,120.0,1,0
+buy now,female,37.0,110.0,1,1
+don't buy anything,male,40.0,80.0,0,0
+buy now,male,63.0,14.0,1,0
+buy now,male,66.0,65.0,1,0
+don't buy anything,male,17.0,62.5,0,0
+don't buy anything,male,34.0,62.5,0,0
+buy now,female,73.0,43.0,1,1
+buy later,male,46.5,44.0,0,0
+don't buy anything,male,68.0,84.0,0,0
+buy now,male,77.0,40.0,1,0
+buy now,male,38.0,62.5,1,0
+buy now,female,62.0,64.0,1,1
+buy later,female,38.0,30.0,0,1
+don't buy anything,male,80.0,84.0,0,0
+don't buy anything,male,36.0,62.0,0,0
+don't buy anything,male,88.0,34.0,0,0
+don't buy anything,female,30.0,108.0,0,1
+buy now,male,66.0,54.0,1,0
+buy later,male,40.0,90.0,0,0
+don't buy anything,male,46.5,59.0,0,0
+buy now,male,72.0,53.0,1,0
+buy now,male,55.0,102.0,1,0
+buy now,male,61.0,71.0,1,0
+don't buy anything,female,21.0,69.0,0,1
+don't buy anything,male,46.5,43.0,0,0
+buy now,male,51.0,81.0,1,0
+don't buy anything,male,51.0,74.0,0,0
+buy now,male,63.0,50.0,1,0
+buy now,male,42.0,87.0,1,0
+don't buy anything,male,58.0,22.0,0,0
+don't buy anything,male,79.0,42.0,0,0
+buy later,male,56.0,62.5,0,0
+buy later,male,22.0,46.0,0,0
+buy later,male,34.0,71.0,0,0
+buy now,male,53.0,86.0,1,0
+don't buy anything,male,78.0,62.5,0,0
+don't buy anything,male,67.0,79.0,0,0
+don't buy anything,male,46.5,68.0,0,0
+don't buy anything,male,54.0,35.0,0,0
+buy later,male,39.0,54.0,0,0
+buy later,male,81.0,62.5,0,0
+buy now,male,61.0,44.0,1,0
+don't buy anything,male,86.0,90.0,0,0
+don't buy anything,male,39.0,81.0,0,0
+don't buy anything,male,50.0,999.0,0,0
+don't buy anything,female,65.0,116.0,0,1
+buy now,male,29.0,48.0,1,0
+buy now,male,50.0,115.0,1,0
+buy now,male,21.0,120.0,1,0
+don't buy anything,female,64.0,111.0,0,1
+buy now,female,46.5,15.0,1,1
+buy later,male,16.0,104.0,0,0
+buy later,male,44.0,106.0,0,0
+buy now,male,67.0,107.0,1,0
+buy now,female,38.0,999.0,1,1
+don't buy anything,male,40.0,59.0,0,0
+buy now,male,82.0,62.0,1,0
+buy later,male,81.0,103.0,0,0
+buy now,female,76.0,9.0,1,1
+buy now,male,46.5,32.0,1,0
+buy later,male,49.0,69.0,0,0
+buy now,male,46.5,110.0,1,0
+buy now,male,27.0,120.0,1,0
+buy now,male,40.0,78.0,1,0
+don't buy anything,female,46.0,82.0,0,1
+don't buy anything,male,18.0,58.0,0,0
+buy now,female,29.0,110.0,1,1
+buy now,male,73.0,77.0,1,0
+don't buy anything,male,58.0,14.0,0,0
+don't buy anything,male,77.0,82.0,0,0
+don't buy anything,male,56.0,27.0,0,0
+buy now,male,65.0,44.0,1,0
+buy now,male,75.0,55.0,1,0
+buy later,male,22.0,62.5,0,0
+buy now,male,42.0,76.0,1,0
+buy now,female,76.0,69.0,1,1
+don't buy anything,male,81.0,35.0,0,0
+buy later,male,14.0,62.5,0,0
+don't buy anything,male,89.0,8.0,0,0
+don't buy anything,male,84.0,41.0,0,0
+buy now,male,14.0,54.0,1,0
+buy now,male,23.0,22.0,1,0
+don't buy anything,male,50.0,10.0,0,0
+don't buy anything,female,13.0,117.0,0,1
+buy now,male,59.0,120.0,1,0
+buy now,male,28.0,81.0,1,0
+buy now,male,37.0,97.0,1,0
+buy later,male,39.0,120.0,0,0
+buy later,male,32.0,47.0,0,0
+buy now,male,18.0,110.0,1,0
+buy later,male,44.0,82.0,0,0
+buy now,male,45.0,68.0,1,0
+buy later,male,52.0,59.0,0,0
+buy now,male,77.0,111.0,1,0
+don't buy anything,female,46.5,19.0,0,1
+buy now,female,69.0,31.0,1,1
+don't buy anything,male,45.0,54.0,0,0
+buy now,male,46.0,81.0,1,0
+buy now,male,39.0,62.5,1,0
+buy now,male,37.0,105.0,1,0
+buy now,female,44.0,73.0,1,1
+buy now,male,13.0,26.0,1,0
+don't buy anything,male,51.0,62.5,0,0
+don't buy anything,male,28.0,79.0,0,0
+don't buy anything,male,69.0,22.0,0,0
+buy later,male,71.0,84.0,0,0
+don't buy anything,male,23.0,18.0,0,0
+buy now,female,54.0,57.0,1,1
+buy now,male,84.0,6.0,1,0
+don't buy anything,male,35.0,31.0,0,0
+buy now,male,44.0,44.0,1,0
+buy now,male,46.5,53.0,1,0
+don't buy anything,female,61.0,98.0,0,1
+buy now,male,14.0,10.0,1,0
+don't buy anything,male,24.0,49.0,0,0
+don't buy anything,male,48.0,76.0,0,0
+don't buy anything,male,79.0,51.0,0,0
+buy later,male,87.0,73.0,0,0
+don't buy anything,female,50.0,61.0,0,1
+don't buy anything,male,77.0,76.0,0,0
+buy now,female,33.0,13.0,1,1
+buy later,female,13.0,999.0,0,1
+buy now,female,55.0,43.0,1,1
+buy now,male,46.0,95.0,1,0
+buy later,male,90.0,62.0,0,0
+buy now,female,24.0,90.0,1,1
+don't buy anything,male,46.5,9.0,0,0
+buy now,male,81.0,62.5,1,0
+buy now,male,87.0,67.0,1,0
+don't buy anything,male,49.0,22.0,0,0
+buy later,female,69.0,51.0,0,1
+buy later,female,76.0,22.0,0,1
+don't buy anything,male,44.0,104.0,0,0
+don't buy anything,female,35.0,12.0,0,1
+buy now,female,89.0,42.0,1,1
+buy now,male,21.0,78.0,1,0
+don't buy anything,male,69.0,52.0,0,0
+buy later,male,31.0,108.0,0,0
+buy now,male,36.0,93.0,1,0
+buy now,male,81.0,68.0,1,0
+buy now,male,89.0,92.0,1,0
+buy later,male,17.0,33.0,0,0
+buy now,male,64.0,39.0,1,0
+don't buy anything,male,77.0,57.0,0,0
+buy later,male,61.0,62.0,0,0
+buy now,male,51.0,88.0,1,0
+buy now,male,82.0,57.0,1,0
+buy now,male,30.0,30.0,1,0
+buy now,male,52.0,62.5,1,0
+buy now,female,56.0,44.0,1,1
+don't buy anything,male,64.0,22.0,0,0
+don't buy anything,male,13.0,83.0,0,0
+buy now,male,13.0,76.0,1,0
+buy later,female,50.0,105.0,0,1
+don't buy anything,male,54.0,64.0,0,0
+buy later,female,64.0,34.0,0,1
+don't buy anything,female,79.0,41.0,0,1
+buy now,male,28.0,94.0,1,0
+buy later,female,41.0,39.0,0,1
